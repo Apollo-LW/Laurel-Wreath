@@ -1,0 +1,9 @@
+1. Course
+1. Task
+1. Institution
+1. User
+1. Auth
+1. Chat
+1. Post
+1. Resource
+1. Organizer
