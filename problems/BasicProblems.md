@@ -31,3 +31,6 @@
 
 # Unnessary Files and Scripts
 - Overhead, the more files we have the more overhead we'll create for the API and same goes in the front-end
+
+# System Design and Architecture
+- Try to think about better ways to implement the same system requirement, a more simple way of course.
